@@ -20,7 +20,6 @@
                 new Libary("Community Library"),
                 new Libary("University Library")
             };
-            Librarian name1 = Librarian("Cecil",libaries);
         }
     }
 }
